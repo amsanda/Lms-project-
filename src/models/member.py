@@ -1,5 +1,3 @@
-# src/models/member.py
-
 # Class to represent a library member
 class Member:
     """Represents a library member."""  # Docstring describing the class

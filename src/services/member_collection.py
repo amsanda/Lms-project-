@@ -1,5 +1,3 @@
-# src/services/member_collection.py
-
 # ADT for managing multiple library members
 class MemberCollection:
     """ADT for managing a collection of library members."""
